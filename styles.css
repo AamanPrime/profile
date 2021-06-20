@@ -1,0 +1,87 @@
+.top-container {
+  background-color: #dbf5f5;
+  position: relative;
+  padding-top: 100px
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  font-family: 'Cormorant Upright', serif;
+  font-size: 100px;
+  color: #66BFBF
+}
+
+h2 {
+  font-family: 'Caveat', cursive;
+  font-size: 40px;
+  color: #66BFBF
+}
+
+h3 {
+  color: #11999E
+}
+
+p {
+  font-family: 'Patrick Hand', cursive;
+  font-size: 25px;
+}
+
+a {
+  color: #11999E
+}
+
+.king {
+  font-size: 30px;
+  margin: 0 auto 0 auto;
+  font-weight: normal;
+}
+
+span {
+  font-size: 120px
+}
+
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2
+}
+
+.karate {
+  width: 25%;
+  float: left;
+  padding: 30px
+}
+
+.champion {
+  width: 25%
+}
+
+
+body {
+  margin: 0;
+  text-align: center;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom: 300px;
+  left: 300px
+}
+
+.top-cloud {
+  position: absolute;
+  right: 250px;
+  top: 50px
+
+}
