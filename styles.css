@@ -64,6 +64,8 @@ span {
 
 .champion {
   width: 25%
+  float: left;
+  padding: 30px
 }
 
 
