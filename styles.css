@@ -17,7 +17,7 @@
 
 h1 {
   margin: 0 auto 0 auto;
-  font-family: 'Cormorant Upright', serif;
+  font-family: 'Tangerine', cursive;
   font-size: 100px;
   color: #66BFBF
 }
@@ -58,6 +58,7 @@ a {
   font-size: 30px;
   margin: 0 auto 0 auto;
   font-weight: normal;
+  color: #66BFBF
 }
 
 span {
