@@ -29,7 +29,8 @@ h2 {
 }
 
 h3 {
-  color: #11999E
+  color: #11999E;
+  font-family: 'Patrick Hand', cursive;
 }
 
 p {
@@ -47,7 +48,8 @@ a {
   top: 40px;
   text-decoration: none;
   color: #EAF6F6;
-  padding: 0 10px 0 10px
+  padding: 0 10px 0 10px;
+  font-family: 'Patrick Hand', cursive;
   
 }
 
@@ -135,7 +137,7 @@ hr {
    -moz-border-radius: 0;
    border-radius: 0;
    color: #FFFFFF;
-   font-family: Garamond;
+   font-family: 'Patrick Hand', cursive;
    font-size: 22px;
    font-weight: 600;
    padding: 6px;
