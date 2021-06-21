@@ -45,7 +45,14 @@ a {
 .footer-link {
   position: relative;
   top: 40px;
-  color: #EAF6F6
+  text-decoration: none;
+  color: #EAF6F6;
+  padding: 0 10px 0 10px
+  
+}
+
+.footer-link:hover {
+  color: Black
 }
 
 .end {
