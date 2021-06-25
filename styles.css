@@ -85,7 +85,8 @@ span {
 .karate {
   width: 35%;
   float: left;
-  margin-right: 30px
+  margin-right: 30px;
+  margin-bottom: 20px
 }
 
 .champion {
