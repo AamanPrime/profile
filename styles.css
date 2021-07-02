@@ -17,7 +17,7 @@
 
 h1 {
   margin: 0 auto 0 auto;
-  font-family: 'Satisfy', cursive;
+  font-family: 'Tourney', cursive;
   font-size: 100px;
   color: #66BFBF
 }
@@ -64,10 +64,11 @@ a {
 }
 
 .king {
-  font-size: 30px;
+  font-size: 40px;
   margin: 0 auto 0 auto;
   font-weight: normal;
-  color: #66BFBF
+  color: #66BFBF;
+  font-family: 'Tourney', cursive;
 }
 
 span {
